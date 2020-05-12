@@ -1,0 +1,43 @@
+#box1{
+height:200px;
+width:200px;
+background-color: red;
+
+}
+#box2{
+	height:100px;
+width:100px;
+background-color: blue;
+
+position: relative;
+top:40px;
+left:40px;
+}
+#new{
+	height:100px;
+width:100px;
+background-color: blue;
+
+position: relative;
+top:40px;
+left:40px;
+display:none;
+}
+#box3{
+	height:50px;
+width:50px;
+background-color: yellow;
+position:relative;
+top:20px;
+left:20px;
+
+}
+#new1{
+	height:50px;
+width:50px;
+background-color: yellow;
+position:relative;
+top:20px;
+left:20px;
+
+}
